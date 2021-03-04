@@ -2,7 +2,7 @@
 class Soldier {}
 
 // Viking
-class Viking {}
+class Viking { f}
 
 // Saxon
 class Saxon {}
